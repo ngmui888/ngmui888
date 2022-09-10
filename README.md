@@ -1,6 +1,6 @@
 [![MasterHead](https://nordiccoder.com/app/uploads/2020/04/2204-P1.png)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm mui</h1>
-<h3 align="center">Còn Thở Còn Code :)</h3>
+<h3 align="center">1 Đấm AC</h3>
 <img align="left" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
